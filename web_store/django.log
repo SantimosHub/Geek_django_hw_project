@@ -1,0 +1,442 @@
+INFO 22-02-2024 14:12:06 autoreload Watching for file changes with StatReloader
+INFO 22-02-2024 14:12:09 basehttp "GET / HTTP/1.1" 200 454
+WARNING 22-02-2024 14:12:09 log Not Found: /favicon.ico
+WARNING 22-02-2024 14:12:09 basehttp "GET /favicon.ico HTTP/1.1" 404 2616
+INFO 22-02-2024 14:12:18 basehttp "GET /admin/ HTTP/1.1" 302 0
+INFO 22-02-2024 14:12:18 basehttp "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3535
+INFO 22-02-2024 14:12:18 basehttp "GET /static/admin/css/base.css HTTP/1.1" 304 0
+INFO 22-02-2024 14:12:18 basehttp "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+INFO 22-02-2024 14:12:18 basehttp "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 22-02-2024 14:12:18 basehttp "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 22-02-2024 14:12:18 basehttp "GET /static/admin/css/login.css HTTP/1.1" 304 0
+WARNING 22-02-2024 14:12:18 basehttp "GET /static/css/styles.css HTTP/1.1" 404 1801
+INFO 22-02-2024 14:12:18 basehttp "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 22-02-2024 14:12:18 basehttp "GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+INFO 22-02-2024 14:13:00 basehttp "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 22-02-2024 14:13:00 basehttp "GET /admin/ HTTP/1.1" 200 7967
+INFO 22-02-2024 14:13:00 basehttp "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+WARNING 22-02-2024 14:13:00 basehttp "GET /static/css/styles.css HTTP/1.1" 404 1801
+INFO 22-02-2024 14:13:00 basehttp "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 22-02-2024 14:13:00 basehttp "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 22-02-2024 14:13:03 basehttp "GET /admin/orders/order/ HTTP/1.1" 200 21232
+INFO 22-02-2024 14:13:03 basehttp "GET /static/admin/css/changelists.css HTTP/1.1" 200 6811
+INFO 22-02-2024 14:13:03 basehttp "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 22-02-2024 14:13:03 basehttp "GET /static/admin/js/core.js HTTP/1.1" 200 6208
+INFO 22-02-2024 14:13:03 basehttp "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9042
+WARNING 22-02-2024 14:13:03 basehttp "GET /static/css/styles.css HTTP/1.1" 404 1801
+INFO 22-02-2024 14:13:03 basehttp "GET /static/admin/js/actions.js HTTP/1.1" 200 8067
+INFO 22-02-2024 14:13:03 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 22-02-2024 14:13:03 basehttp "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 22-02-2024 14:13:03 basehttp "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 22-02-2024 14:13:03 basehttp "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+INFO 22-02-2024 14:13:03 basehttp "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+INFO 22-02-2024 14:13:03 basehttp "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+INFO 22-02-2024 14:13:03 basehttp "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+INFO 22-02-2024 14:13:03 basehttp "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 22-02-2024 14:13:03 basehttp "GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+INFO 22-02-2024 14:15:35 basehttp "GET /admin/auth/group/ HTTP/1.1" 200 11615
+INFO 22-02-2024 14:15:35 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+WARNING 22-02-2024 14:15:35 basehttp "GET /static/css/styles.css HTTP/1.1" 404 1801
+INFO 22-02-2024 14:15:37 basehttp "GET /admin/products/product/ HTTP/1.1" 200 26808
+INFO 22-02-2024 14:15:37 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+WARNING 22-02-2024 14:15:37 basehttp "GET /static/css/styles.css HTTP/1.1" 404 1801
+INFO 22-02-2024 14:15:48 basehttp "GET /admin/auth/group/ HTTP/1.1" 200 11615
+INFO 22-02-2024 14:15:48 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+WARNING 22-02-2024 14:15:48 basehttp "GET /static/css/styles.css HTTP/1.1" 404 1801
+INFO 22-02-2024 14:15:49 basehttp "GET /admin/customers/customer/ HTTP/1.1" 200 19748
+INFO 22-02-2024 14:15:49 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+WARNING 22-02-2024 14:15:49 basehttp "GET /static/css/styles.css HTTP/1.1" 404 1801
+INFO 22-02-2024 14:15:51 basehttp "GET /admin/orders/order/ HTTP/1.1" 200 21232
+INFO 22-02-2024 14:15:51 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+WARNING 22-02-2024 14:15:51 basehttp "GET /static/css/styles.css HTTP/1.1" 404 1801
+INFO 22-02-2024 14:15:55 basehttp "POST /admin/logout/ HTTP/1.1" 200 2976
+WARNING 22-02-2024 14:15:55 basehttp "GET /static/css/styles.css HTTP/1.1" 404 1801
+INFO 22-02-2024 14:17:09 autoreload Watching for file changes with StatReloader
+INFO 22-02-2024 14:17:15 basehttp "GET / HTTP/1.1" 200 454
+INFO 22-02-2024 14:17:23 basehttp "GET /admin/ HTTP/1.1" 302 0
+INFO 22-02-2024 14:17:23 basehttp "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3535
+WARNING 22-02-2024 14:17:23 basehttp "GET /static/css/styles.css HTTP/1.1" 404 1801
+INFO 22-02-2024 14:17:33 basehttp "POST /admin/login/?next=/admin/ HTTP/1.1" 200 3802
+WARNING 22-02-2024 14:17:33 basehttp "GET /static/css/styles.css HTTP/1.1" 404 1801
+INFO 22-02-2024 14:17:46 basehttp "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 22-02-2024 14:17:46 basehttp "GET /admin/ HTTP/1.1" 200 7967
+WARNING 22-02-2024 14:17:46 basehttp "GET /static/css/styles.css HTTP/1.1" 404 1801
+ERROR 22-02-2024 14:17:49 log Internal Server Error: /admin/orders/order/
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: customers_customer
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\admin\options.py", line 714, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\admin\sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\admin\options.py", line 1981, in changelist_view
+    cl = self.get_changelist_instance(request)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\admin\options.py", line 862, in get_changelist_instance
+    return ChangeList(
+           ^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\admin\views\main.py", line 144, in __init__
+    self.queryset = self.get_queryset(request)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\admin\views\main.py", line 539, in get_queryset
+    ) = self.get_filters(request)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\admin\views\main.py", line 215, in get_filters
+    spec = field_list_filter_class(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\admin\filters.py", line 216, in create
+    return list_filter_class(
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\admin\filters.py", line 231, in __init__
+    self.lookup_choices = self.field_choices(field, request, model_admin)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\admin\filters.py", line 272, in field_choices
+    return field.get_choices(include_blank=False, ordering=ordering)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\fields\__init__.py", line 1074, in get_choices
+    return (blank_choice if include_blank else []) + [
+                                                     ^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 398, in __iter__
+    self._fetch_all()
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 1926, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+              ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: customers_customer
+ERROR 22-02-2024 14:17:49 basehttp "GET /admin/orders/order/ HTTP/1.1" 500 216196
+INFO 22-02-2024 14:17:51 basehttp "GET /admin/ HTTP/1.1" 200 7967
+ERROR 22-02-2024 14:17:53 log Internal Server Error: /admin/customers/customer/
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: customers_customer
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\admin\options.py", line 714, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\admin\sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\admin\options.py", line 1981, in changelist_view
+    cl = self.get_changelist_instance(request)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\admin\options.py", line 862, in get_changelist_instance
+    return ChangeList(
+           ^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\admin\views\main.py", line 145, in __init__
+    self.get_results(request)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\admin\views\main.py", line 312, in get_results
+    result_count = paginator.count
+                   ^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\utils\functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\paginator.py", line 110, in count
+    return c()
+           ^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 618, in count
+    return self.query.get_count(using=self.db)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\query.py", line 618, in get_count
+    return obj.get_aggregation(using, {"__count": Count("*")})["__count"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\query.py", line 604, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: customers_customer
+ERROR 22-02-2024 14:17:53 basehttp "GET /admin/customers/customer/ HTTP/1.1" 500 197979
+INFO 22-02-2024 14:17:54 basehttp "GET /admin/ HTTP/1.1" 200 7967
+INFO 22-02-2024 14:17:56 basehttp "GET /admin/auth/group/ HTTP/1.1" 200 9369
+WARNING 22-02-2024 14:17:56 basehttp "GET /static/css/styles.css HTTP/1.1" 404 1801
+INFO 22-02-2024 14:17:56 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 22-02-2024 14:17:57 basehttp "GET /admin/auth/user/ HTTP/1.1" 200 13493
+INFO 22-02-2024 14:17:57 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+WARNING 22-02-2024 14:17:57 basehttp "GET /static/css/styles.css HTTP/1.1" 404 1801
+INFO 22-02-2024 14:17:57 basehttp "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 22-02-2024 14:17:57 basehttp "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+ERROR 22-02-2024 14:18:00 log Internal Server Error: /admin/products/product/
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: products_product
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\admin\options.py", line 714, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\admin\sites.py", line 240, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\utils\decorators.py", line 188, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\utils\decorators.py", line 186, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\admin\options.py", line 1981, in changelist_view
+    cl = self.get_changelist_instance(request)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\admin\options.py", line 862, in get_changelist_instance
+    return ChangeList(
+           ^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\admin\views\main.py", line 145, in __init__
+    self.get_results(request)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\contrib\admin\views\main.py", line 312, in get_results
+    result_count = paginator.count
+                   ^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\utils\functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\paginator.py", line 110, in count
+    return c()
+           ^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\query.py", line 618, in count
+    return self.query.get_count(using=self.db)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\query.py", line 618, in get_count
+    return obj.get_aggregation(using, {"__count": Count("*")})["__count"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\query.py", line 604, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: no such table: products_product
+ERROR 22-02-2024 14:18:00 basehttp "GET /admin/products/product/ HTTP/1.1" 500 197746
+INFO 22-02-2024 14:18:37 basehttp "GET /admin/auth/user/ HTTP/1.1" 200 13493
+INFO 22-02-2024 14:18:51 basehttp "POST /admin/logout/ HTTP/1.1" 200 2976
+WARNING 22-02-2024 14:18:51 basehttp "GET /static/css/styles.css HTTP/1.1" 404 1801
+INFO 22-02-2024 14:19:24 autoreload Watching for file changes with StatReloader
+INFO 22-02-2024 14:19:26 basehttp "GET / HTTP/1.1" 200 454
+WARNING 22-02-2024 14:19:30 log Not Found: /about
+WARNING 22-02-2024 14:19:30 basehttp "GET /about HTTP/1.1" 404 2598
+INFO 22-02-2024 14:19:33 basehttp "GET /admin/ HTTP/1.1" 302 0
+INFO 22-02-2024 14:19:33 basehttp "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3535
+WARNING 22-02-2024 14:19:33 basehttp "GET /static/css/styles.css HTTP/1.1" 404 1801
+INFO 22-02-2024 14:19:43 basehttp "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 22-02-2024 14:19:43 basehttp "GET /admin/ HTTP/1.1" 200 7967
+WARNING 22-02-2024 14:19:43 basehttp "GET /static/css/styles.css HTTP/1.1" 404 1801
+INFO 22-02-2024 14:19:45 basehttp "GET /admin/auth/user/ HTTP/1.1" 200 18126
+INFO 22-02-2024 14:19:45 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+WARNING 22-02-2024 14:19:45 basehttp "GET /static/css/styles.css HTTP/1.1" 404 1801
+INFO 22-02-2024 14:20:14 basehttp "GET /admin/auth/user/?groups__id__exact=1 HTTP/1.1" 200 14702
+INFO 22-02-2024 14:20:14 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+WARNING 22-02-2024 14:20:14 basehttp "GET /static/css/styles.css HTTP/1.1" 404 1801
+INFO 22-02-2024 14:20:20 basehttp "GET /admin/auth/user/?groups__id__exact=3 HTTP/1.1" 200 15255
+INFO 22-02-2024 14:20:20 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+WARNING 22-02-2024 14:20:20 basehttp "GET /static/css/styles.css HTTP/1.1" 404 1801
+INFO 22-02-2024 14:20:21 basehttp "GET /admin/auth/user/?groups__id__exact=2 HTTP/1.1" 200 16395
+WARNING 22-02-2024 14:20:21 basehttp "GET /static/css/styles.css HTTP/1.1" 404 1801
+INFO 22-02-2024 14:20:21 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 22-02-2024 14:20:24 basehttp "GET /admin/auth/user/? HTTP/1.1" 200 18126
+INFO 22-02-2024 14:20:24 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+WARNING 22-02-2024 14:20:24 basehttp "GET /static/css/styles.css HTTP/1.1" 404 1801
+INFO 22-02-2024 14:20:30 basehttp "POST /admin/auth/user/? HTTP/1.1" 200 16448
+WARNING 22-02-2024 14:20:30 basehttp "GET /static/css/styles.css HTTP/1.1" 404 1801
+INFO 22-02-2024 14:20:30 basehttp "GET /static/admin/js/cancel.js HTTP/1.1" 200 884
+INFO 22-02-2024 14:20:39 basehttp "POST /admin/auth/user/? HTTP/1.1" 302 0
+INFO 22-02-2024 14:20:39 basehttp "GET /admin/auth/user/ HTTP/1.1" 200 17765
+INFO 22-02-2024 14:20:39 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+WARNING 22-02-2024 14:20:39 basehttp "GET /static/css/styles.css HTTP/1.1" 404 1801
+INFO 22-02-2024 14:20:50 basehttp "GET /admin/products/product/ HTTP/1.1" 200 26808
+INFO 22-02-2024 14:20:50 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+WARNING 22-02-2024 14:20:50 basehttp "GET /static/css/styles.css HTTP/1.1" 404 1801
+INFO 22-02-2024 14:21:06 basehttp "POST /admin/products/product/ HTTP/1.1" 200 9244
+WARNING 22-02-2024 14:21:06 basehttp "GET /static/css/styles.css HTTP/1.1" 404 1801
+INFO 22-02-2024 14:21:07 basehttp "POST /admin/products/product/ HTTP/1.1" 302 0
+INFO 22-02-2024 14:21:07 basehttp "GET /admin/products/product/ HTTP/1.1" 200 26485
+INFO 22-02-2024 14:21:07 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+WARNING 22-02-2024 14:21:07 basehttp "GET /static/css/styles.css HTTP/1.1" 404 1801
+INFO 22-02-2024 14:21:11 basehttp "GET /admin/orders/order/ HTTP/1.1" 200 21232
+INFO 22-02-2024 14:21:11 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+WARNING 22-02-2024 14:21:11 basehttp "GET /static/css/styles.css HTTP/1.1" 404 1801
+INFO 22-02-2024 14:21:14 basehttp "GET /admin/customers/customer/ HTTP/1.1" 200 19748
+INFO 22-02-2024 14:21:14 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+WARNING 22-02-2024 14:21:14 basehttp "GET /static/css/styles.css HTTP/1.1" 404 1801
+INFO 22-02-2024 14:21:17 basehttp "GET /admin/auth/group/ HTTP/1.1" 200 11615
+INFO 22-02-2024 14:21:17 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+WARNING 22-02-2024 14:21:17 basehttp "GET /static/css/styles.css HTTP/1.1" 404 1801
+INFO 22-02-2024 14:21:23 basehttp "GET /admin/auth/user/ HTTP/1.1" 200 17602
+INFO 22-02-2024 14:21:23 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+WARNING 22-02-2024 14:21:23 basehttp "GET /static/css/styles.css HTTP/1.1" 404 1801
+INFO 22-02-2024 14:21:26 basehttp "GET /admin/auth/group/ HTTP/1.1" 200 11615
+WARNING 22-02-2024 14:21:26 basehttp "GET /static/css/styles.css HTTP/1.1" 404 1801
+INFO 22-02-2024 14:21:26 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+INFO 22-02-2024 14:21:26 basehttp "GET /admin/auth/user/ HTTP/1.1" 200 17602
+INFO 22-02-2024 14:21:26 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+WARNING 22-02-2024 14:21:26 basehttp "GET /static/css/styles.css HTTP/1.1" 404 1801
+INFO 22-02-2024 14:21:28 basehttp "GET /admin/products/product/ HTTP/1.1" 200 26336
+INFO 22-02-2024 14:21:28 basehttp "GET /admin/jsi18n/ HTTP/1.1" 200 17546
+WARNING 22-02-2024 14:21:28 basehttp "GET /static/css/styles.css HTTP/1.1" 404 1801
+INFO 22-02-2024 14:21:32 basehttp "POST /admin/logout/ HTTP/1.1" 200 2976
+WARNING 22-02-2024 14:21:32 basehttp "GET /static/css/styles.css HTTP/1.1" 404 1801
+INFO 22-02-2024 16:15:02 autoreload Watching for file changes with StatReloader
+INFO 22-02-2024 16:16:59 autoreload Watching for file changes with StatReloader
+INFO 22-02-2024 16:18:11 autoreload Watching for file changes with StatReloader
+INFO 22-02-2024 16:18:14 basehttp "GET / HTTP/1.1" 200 10259
+INFO 22-02-2024 16:18:14 basehttp "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 12621
+INFO 22-02-2024 16:18:14 basehttp "GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+INFO 22-02-2024 16:18:14 basehttp "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 13578
+INFO 22-02-2024 16:18:14 basehttp "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4527
+INFO 25-02-2024 14:57:59 autoreload Watching for file changes with StatReloader
+INFO 25-02-2024 14:58:04 basehttp "GET / HTTP/1.1" 200 10259
+INFO 25-02-2024 14:58:04 basehttp "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 304 0
+INFO 25-02-2024 14:58:04 basehttp "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 304 0
+INFO 25-02-2024 14:58:04 basehttp "GET /static/debug_toolbar/css/print.css HTTP/1.1" 304 0
+INFO 25-02-2024 14:58:04 basehttp "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4527
+WARNING 25-02-2024 14:58:04 log Not Found: /favicon.ico
+WARNING 25-02-2024 14:58:04 basehttp "GET /favicon.ico HTTP/1.1" 404 12522
+INFO 25-02-2024 15:31:18 autoreload E:\Developer\Погружение в Python\django_hw_project\HW\web_store\web_store\settings.py changed, reloading.
